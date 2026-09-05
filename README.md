@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" width="200" alt="FileLens Logo">
+  <img src="logo.png" width="200" alt="FileLens Logo">
 </p>
 
 <h1 align="center">FileLens</h1>
@@ -66,9 +66,9 @@ FileLens keeps your files exactly where they are and layers a fast, visual, inte
 
 <table>
   <tr>
-    <td><img src="screenshots/screenshot-01.png" alt="FileLens Home" width="100%"></td>
-    <td><img src="screenshots/screenshot-02.png" alt="FileLens Dashboard" width="100%"></td>
-    <td><img src="screenshots/screenshot-03.png" alt="FileLens Dashboard" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_20_47 PM" alt="FileLens Home" width="100%"></td>
+    <td><img src="\filelensSS/FileLens 05-Sep-26 4_20_55 PM" alt="FileLens Dashboard" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_21_23 PM" alt="FileLens Dashboard" width="100%"></td>
   </tr>
   <tr>
     <td><img src="screenshots/screenshot-04.png" alt="FileLens Files" width="100%"></td>
