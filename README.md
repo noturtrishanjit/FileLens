@@ -19,11 +19,11 @@
 
 ## The Problem
 
-Windows File Explorer forces you to remember exact folder paths. Over time, files scatter across dozens of directories, duplicates pile up, and finding anything becomes a chore. You know what you saved — you just don't remember where.
+Windows File Explorer forces you to remember exact folder paths. Over time, files scatter across dozens of directories, duplicates pile up, and finding anything becomes a chore. You know what you save[...]
 
 ## The Solution
 
-FileLens keeps your files exactly where they are and layers a fast, visual, intelligent workspace on top. Search by what you remember. Organize with tags and collections without moving a single file. See relationships between files. Understand your storage at a glance.
+FileLens keeps your files exactly where they are and layers a fast, visual, intelligent workspace on top. Search by what you remember. Organize with tags and collections without moving a single file. [...]
 
 ---
 
@@ -66,28 +66,28 @@ FileLens keeps your files exactly where they are and layers a fast, visual, inte
 
 <table>
   <tr>
-    <td><img src="filelensSS/FileLens 05-Sep-26 4_20_47 PM" alt="FileLens Home" width="100%"></td>
-    <td><img src="\filelensSS/FileLens 05-Sep-26 4_20_55 PM" alt="FileLens Dashboard" width="100%"></td>
-    <td><img src="filelensSS/FileLens 05-Sep-26 4_21_23 PM" alt="FileLens Dashboard" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_20_47 PM.png" alt="FileLens Home" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_20_55 PM.png" alt="FileLens Dashboard" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_21_23 PM.png" alt="FileLens Dashboard" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/screenshot-04.png" alt="FileLens Files" width="100%"></td>
-    <td><img src="screenshots/screenshot-05.png" alt="FileLens Files" width="100%"></td>
-    <td><img src="screenshots/screenshot-06.png" alt="FileLens Files" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_21_30 PM.png" alt="FileLens Files" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_21_37 PM.png" alt="FileLens Files" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_21_45 PM.png" alt="FileLens Files" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/screenshot-07.png" alt="FileLens Details" width="100%"></td>
-    <td><img src="screenshots/screenshot-08.png" alt="FileLens Search" width="100%"></td>
-    <td><img src="screenshots/screenshot-09.png" alt="FileLens Storage" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_22_08 PM.png" alt="FileLens Details" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_22_16 PM.png" alt="FileLens Search" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_22_32 PM.png" alt="FileLens Storage" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/screenshot-10.png" alt="FileLens Tags" width="100%"></td>
-    <td><img src="screenshots/screenshot-11.png" alt="FileLens Collections" width="100%"></td>
-    <td><img src="screenshots/screenshot-12.png" alt="FileLens Duplicates" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_22_40 PM.png" alt="FileLens Tags" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_22_45 PM.png" alt="FileLens Collections" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_22_52 PM.png" alt="FileLens Duplicates" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/screenshot-13.png" alt="FileLens Preview" width="100%"></td>
-    <td><img src="screenshots/screenshot-14.png" alt="FileLens Settings" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_22_57 PM.png" alt="FileLens Preview" width="100%"></td>
+    <td><img src="filelensSS/FileLens 05-Sep-26 4_23_07 PM.png" alt="FileLens Settings" width="100%"></td>
   </tr>
 </table>
 
@@ -264,4 +264,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
-Built with [Electron](https://electronjs.org), [React](https://react.dev), [Vite](https://vitejs.dev), [better-sqlite3](https://github.com/WiseLibs/better-sqlite3), and [electron-builder](https://www.electron.build).
+Built with [Electron](https://electronjs.org), [React](https://react.dev), [Vite](https://vitejs.dev), [better-sqlite3](https://github.com/WiseLibs/better-sqlite3), and [electron-builder](https://www.[...]
