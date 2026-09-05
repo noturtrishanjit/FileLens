@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" width="200" alt="FileLens Logo">
+  <img src="logo.png" width="200" alt="FileLens Logo">
 </p>
 
 <h1 align="center">FileLens</h1>
