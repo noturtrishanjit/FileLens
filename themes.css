@@ -1,0 +1,83 @@
+:root {
+  --bg-primary: #0f0f14;
+  --bg-secondary: #16161d;
+  --bg-tertiary: #1e1e28;
+  --bg-card: #1a1a24;
+  --bg-card-hover: #22222e;
+  --bg-sidebar: #12121a;
+  --bg-input: #1a1a24;
+  --bg-overlay: rgba(0, 0, 0, 0.6);
+  --border: #2a2a36;
+  --border-light: #333340;
+  --text-primary: #e8e8ed;
+  --text-secondary: #9898a6;
+  --text-tertiary: #6a6a78;
+  --accent: #6366f1;
+  --accent-hover: #818cf8;
+  --accent-bg: rgba(99, 102, 241, 0.12);
+  --danger: #ef4444;
+  --danger-bg: rgba(239, 68, 68, 0.12);
+  --success: #10b981;
+  --success-bg: rgba(16, 185, 129, 0.12);
+  --warning: #f59e0b;
+  --warning-bg: rgba(245, 158, 11, 0.12);
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.3);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.5);
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --transition: 150ms ease;
+}
+
+[data-theme="light"] {
+  --bg-primary: #f8f9fc;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #f0f1f5;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f5f6fa;
+  --bg-sidebar: #f2f3f7;
+  --bg-input: #f0f1f5;
+  --border: #e2e3e8;
+  --border-light: #d5d6dc;
+  --text-primary: #1a1a2e;
+  --text-secondary: #5a5a72;
+  --text-tertiary: #8a8a9e;
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.06);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Segoe UI Variable', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--border-light); }
+
+input, button, select {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+}
+
+::selection {
+  background: var(--accent);
+  color: white;
+}
